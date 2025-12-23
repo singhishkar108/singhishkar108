@@ -89,11 +89,35 @@
 ![WPF](https://img.shields.io/badge/WPF-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 
 # 🐍 My Contributions
+
 <div align="center">
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
 </div>
 
-<!-- # 📊 GitHub Stats -->
+# 📊 GitHub Stats
+
+<div align="center">
+
+<table>
+<tr>
+<td>
+  <img width="480" height="200" src="https://github-readme-streak-stats-salesp07.vercel.app/?user=singhishkar108&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
+</td>
+<td>
+  <img width="480" height="200" src="https://github-readme-stats-salesp07.vercel.app/api?username=singhishkar108&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats"/>
+</td>
+</tr>
+<tr>
+<td>
+  <img width="480" height="200" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=singhishkar108&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs"/>
+</td>
+<td>
+  <img width="480" height="200" src="https://github-readme-activity-graph.vercel.app/graph?username=singhishkar108&theme=react&area=true&hide_border=true&border_radius=10" alt="activity graph"/>
+</td>
+</tr>
+</table>
+
+</div>
 
 <!--
 **singhishkar108/singhishkar108** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
