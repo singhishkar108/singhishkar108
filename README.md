@@ -2,11 +2,9 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Michroma&size=28&duration=0.1&pause=100000&color=039DAD&center=true&vCenter=true&width=300&height=40&lines=Ishkar+Singh)](https://git.io/typing-svg)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Michroma&size=28&duration=3750&pause=1200&color=039DAD&center=true&vCenter=true&width=1000&height=40&lines=Software+Developer;ASP.NET+MVC+Web+Development;Cybersecurity-Focused;Always+evolving%2C+one+new+skill+at+a+time)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Michroma&size=28&duration=3750&pause=1200&color=039DAD&center=true&vCenter=true&width=1000&height=40&lines=💻+Software+Developer;🌐+ASP.NET+MVC+Web+Development;🛡️+Cybersecurity-Focused;🎯+Always+evolving%2C+one+new+skill+at+a+time)](https://git.io/typing-svg)
 
 </div>
-
-<br>
 
 # 💫 About Me
 
