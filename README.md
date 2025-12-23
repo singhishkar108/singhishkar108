@@ -10,7 +10,6 @@
 
 # 💫 About Me
 
-🔭 I’m currently working on TryHackMe<br>
 🌱 I’m currently learning Cybersecurity<br>
 
 # 🌐 Socials
