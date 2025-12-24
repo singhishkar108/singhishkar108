@@ -1,51 +1,52 @@
-# GitHub Action for generating a contribution graph with a snake animation
+# GitHub Action for generating a contribution graph with a snake eating your contributions.
 name: Generate Snake
 
-# Controls when the action will run
+# Controls when the action will run.
 on:
   schedule:
-    # Run every 12 hours
+      # every 12 hours
     - cron: "0 */12 * * *"
-  # Allows manual trigger from the Actions tab
+
+  # This command allows us to run the Action automatically from the Actions tab.
   workflow_dispatch:
-  # Also run on every push to the main branch
+  
+  # Also run on every push on the master branch
   push:
     branches:
-      - main
+    - main
 
+# The sequence of runs in this workflow:
 jobs:
+  # This workflow contains a single job called "build"
   build:
-    # Use the latest Ubuntu runner
+    # The type of runner that the job will run on
     runs-on: ubuntu-latest
 
+    # Steps represent a sequence of tasks that will be executed as part of the job
     steps:
-      # Step 1: Clone the repository so the workflow can access files
       - name: Clone repo
         uses: actions/checkout@v3
-
-      # Step 2: Generate the snake animation files
-      # Uses the Platane/snk action
-      # The action will generate SVG and GIF files of your GitHub contributions
-      - name: Generate the snake
+    
+      - name: Generate the snake files in './dist/'
         uses: Platane/snk@v3
+        id: snake-gif
         with:
           github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+            dist/github-contribution-grid-snake.gif?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9
         env:
-          # GitHub token allows the action to read your contributions
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
-      # Step 3: Debug step to list generated files
-      # Ensures that the snake images are generated in the 'dist/' folder
-      - name: List generated files
-        run: ls -la dist/
+      - name: Show build status
+        run: git status
 
-      # Step 4: Push generated files to the 'output' branch
-      # This uses the GitHub Pages action to update your repository branch
-      - name: Push new files to output branch
+      - name: Push new files to the output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
-          target_branch: output       # Branch where files are pushed
-          build_dir: dist             # Directory containing generated files
-          commit_message: "Update snake animations"
+          target_branch: output
+          build_dir: dist
+          commit_message: Update snake animations
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
