@@ -8,7 +8,9 @@
 
 # 💫 About Me
 
-🌱 I’m currently learning Cybersecurity<br>
+🌱 I’m currently learning **Cybersecurity**<br>
+💬 Ask me about: **C#**, **WPF**, **.NET MVC Core**<br>
+⚡ Fun fact : A moth found stuck in a computer relay in 1947 was logged as the **“first actual bug"**.<br>
 
 # 🌐 Socials
 
