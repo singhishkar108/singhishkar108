@@ -9,7 +9,7 @@
 # 💫 About Me
 
 🌱 I’m currently learning **Cybersecurity**<br>
-💬 Ask me about: **C#**, **WPF**, **.NET MVC Core**
+💬 Ask me about: **ASP .NET Core**, **C#**, **WPF**<br>
 ⚡ Fun fact : A moth found stuck in a computer relay in 1947 was logged as the **“first actual bug"**.
 
 # 🌐 Socials
@@ -69,7 +69,6 @@
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![NetBeans](https://img.shields.io/badge/NetBeans-1B6AC6?style=for-the-badge&logo=apache-netbeans&logoColor=white)
-![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
 ![Photopea](https://img.shields.io/badge/Photopea-%231DB954.svg?style=for-the-badge&logo=photopea&logoColor=white)
