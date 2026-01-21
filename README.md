@@ -2,14 +2,14 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Michroma&size=24&duration=0.1&pause=100000&color=039DAD&center=true&vCenter=true&width=300&height=40&lines=Ishkar+Singh)](https://git.io/typing-svg)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Michroma&size=28&duration=3700&pause=1000&color=039DAD&center=true&vCenter=true&width=1000&height=40&lines=💻+Software+Developer+💻;🌐+ASP.NET+MVC+Web+Development+🌐;🛡️+Cybersecurity-Focused+🛡️;🎯+Always+evolving%2C+one+new+skill+at+a+time+🎯)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Michroma&size=28&duration=3700&pause=1000&color=039DAD&center=true&vCenter=true&width=1000&height=40&lines=💻+Software+Developer+💻;🌐+ASP+.NET+MVC+Web+Development+🌐;🛡️+Aspiring+Cybersecurity+Professional+🛡️;🎯+Continous+Learning+🎯)](https://git.io/typing-svg)
 
 </div>
 
 # 💫 About Me
 
 🌱 I’m currently learning **Cybersecurity**<br>
-💬 Ask me about: **ASP .NET Core**, **C#**, **WPF**<br>
+💬 Ask me about: **.NET Framework**, **C#**, **WPF**<br>
 ⚡ Fun fact : A moth found stuck in a computer relay in 1947 was logged as the **“first actual bug"**.
 
 # 🌐 Socials
