@@ -2,13 +2,13 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Michroma&size=24&duration=0.1&pause=100000&color=039DAD&center=true&vCenter=true&width=300&height=40&lines=Ishkar+Singh)](https://git.io/typing-svg)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Michroma&size=28&duration=3700&pause=1000&color=039DAD&center=true&vCenter=true&width=1000&height=30&lines=💻+Software+Developer+💻;🌐+ASP+.NET+MVC+Web+Development+🌐;🛡️+Aspiring+Cybersecurity+Professional+🛡️;🎯+Continous+Learning+🎯)](https://git.io/typing-svg)
+[![Typing SVG](<https://readme-typing-svg.herokuapp.com?font=Michroma&size=28&duration=3700&pause=1000&color=039DAD&center=true&vCenter=true&width=1000&height=30&lines=🚀+Software+Developer+🚀;☁️+Cloud+Computing+Enthusiast+☁️;🕵️‍♂️+Cybersecurity+Enthusiast+🕵️‍♂️;🤖+Artificial+Intelligence+(AI)+Enthusiast+🤖;♾️+DevOps+Enthusiast+♾️;⚙️+Engineering+Clean,+Maintainable+Solutions+⚙️>)](https://git.io/typing-svg)
 
 </div>
 
 # 💫 About Me
 
-🌱 I’m currently learning **Cybersecurity**<br>
+🌱 I’m currently learning **Python**<br>
 💬 Ask me about: **.NET Framework**, **C#**, **WPF**<br>
 ⚡ Fun fact : A moth found stuck in a computer relay in 1947 was logged as the **“first actual bug"**.
 
@@ -28,6 +28,14 @@
          alt="Gmail" 
          width="40" 
          height="40" 
+         align="center" />
+  </a>
+  &nbsp;&nbsp;
+<a href="https://singhishkar108.netlify.app/" target="_blank">
+    <img src="https://api.iconify.design/bi:globe.svg?color=%23ffffff" 
+         alt="Website" 
+         width="36" 
+         height="36" 
          align="center" />
   </a>
 </p>
@@ -69,6 +77,7 @@
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![NetBeans](https://img.shields.io/badge/NetBeans-1B6AC6?style=for-the-badge&logo=apache-netbeans&logoColor=white)
+![Netlify](https://img.shields.io/badge/Netlify-%2300C7B7.svg?style=for-the-badge&logo=netlify&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
 ![Photopea](https://img.shields.io/badge/Photopea-%231DB954.svg?style=for-the-badge&logo=photopea&logoColor=white)
