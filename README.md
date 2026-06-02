@@ -32,11 +32,12 @@
   </a>
   &nbsp;&nbsp;
 <a href="https://singhishkar108.netlify.app/" target="_blank">
-    <img src="https://api.iconify.design/bi:globe.svg?color=%23ffffff" 
+    <img src="https://api.iconify.design/bi:globe.svg?color=%23007acc" 
          alt="Website" 
          width="36" 
          height="36" 
          align="center" />
+</a>
   </a>
 </p>
 
